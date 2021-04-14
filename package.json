@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "scanf": "^1.1.2"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "Exercices.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
