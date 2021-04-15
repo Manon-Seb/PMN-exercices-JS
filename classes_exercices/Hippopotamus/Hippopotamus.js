@@ -28,10 +28,10 @@ class Hippopotamus {
   // The hippopotamus with the longest tusks wins
   fight(hippopotamus) {
     if (this.tusksSize > hippopotamus.tusksSize) {
-      console.log(this.name + " is the winner!");
+      console.log(`${this.name} is the winner!`);
     }
     else {
-      console.log(hippopotamus.name + " is the winner!");
+      console.log(`${hippopotamus.nam} is the winner!`);
     }
   }
 
